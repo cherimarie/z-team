@@ -1,2 +1,11 @@
-# z-team
-A repo to practice git process
+# Z Team
+
+This is a team of all students in the class. Welcome!
+
+## Repo Purpose
+
+We can use this repo to practice correct team process. Let's get the hang of it somewhere it's okay to make a mess rather than our project repos :)
+
+## TODO
+
+Add something to this README and open a pull request with the change.
