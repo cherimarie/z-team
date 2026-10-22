@@ -8,4 +8,4 @@ We can use this repo to practice correct team process. Let's get the hang of it 
 
 ## TODO
 
-Add something to this README and open a pull request with the change.
+Hey it's me, it's verity
